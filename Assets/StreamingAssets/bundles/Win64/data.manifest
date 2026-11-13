@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 1879564525
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b6e9ea57338388014706ab3c9b5ac26b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 77a3ee1e29723dca8c6956b06e99fed2
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: b6e9ea57338388014706ab3c9b5ac26b
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: 8fb0599e94ac498488ce726b9602fec8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 949a6043a09d260448c55a7a05544116, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/SO/Map2.asset
+- Assets/SO/GameData.asset
+- Assets/SO/Map7.asset
+- Assets/SO/Map4.asset
+- Assets/SO/Map6.asset
+- Assets/SO/Map5.asset
+- Assets/SO/Map1.asset
+- Assets/SO/Map3.asset
+Dependencies: []

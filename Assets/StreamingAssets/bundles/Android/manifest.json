@@ -1,0 +1,34 @@
+{
+    "version": "1.0.12",
+    "appVersion": "1.0.0",
+    "bundles": [
+        {
+            "name": "data",
+            "hash": "67ddc13d82ca632eb6f1ccf24bac600e",
+            "md5": "b9509a7c1796c726c296dbe171c8a807",
+            "size": 2345,
+            "dependencies": []
+        },
+        {
+            "name": "map1",
+            "hash": "8414fa6346799e76b56a6ef7b9b895b2",
+            "md5": "87696582ba01434433ba1dbb08b3c8a5",
+            "size": 1416635,
+            "dependencies": []
+        },
+        {
+            "name": "map2",
+            "hash": "7f0c4ba568c6ba2a9fe18e377f7c661e",
+            "md5": "d31810a97c02b9466645bd79143228e2",
+            "size": 1397830,
+            "dependencies": []
+        },
+        {
+            "name": "prefabs",
+            "hash": "73c9726729252261f3c7f8814aaf4735",
+            "md5": "a597e0f267a8a90557d81dbe87d2e5ae",
+            "size": 3543,
+            "dependencies": []
+        }
+    ]
+}
